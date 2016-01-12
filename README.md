@@ -1,5 +1,7 @@
 # Cookies
-Who doesn't like cookies? These cookies were made to be integrated with [Font Awesome](https://fortawesome.github.io/Font-Awesome/). [Suggestion thread](https://github.com/FortAwesome/Font-Awesome/issues/2845)
+Who doesn't like cookies? These cookies were made to be integrated with [Font Awesome](https://fortawesome.github.io/Font-Awesome/). Can also be used independently as long as they comply with the Creative Commons 4.0 license. 
+
+[Suggestion thread](https://github.com/FortAwesome/Font-Awesome/issues/2845)
 
 
 ## Cookie
