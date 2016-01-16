@@ -1,5 +1,5 @@
 # Cookies
-Who doesn't like cookies? These cookies were made to be integrated with [Font Awesome](https://fortawesome.github.io/Font-Awesome/). Can also be used independently as long as they comply with the Creative Commons 4.0 license. 
+Who doesn't like cookies? These cookies were made to be integrated with [Font Awesome](https://fortawesome.github.io/Font-Awesome/). Can also be used independently.
 
 [Suggestion thread](https://github.com/FortAwesome/Font-Awesome/issues/2845)
 
@@ -15,4 +15,20 @@ Who doesn't like cookies? These cookies were made to be integrated with [Font Aw
 
 Images are made with [Inkscape](https://inkscape.org/).
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/whitebird/">
+    <span property="dct:title">Sebastiaan Jansen</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Cookie</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="BE" about="https://github.com/whitebird/">
+  Belgium</span>.
+</p>
